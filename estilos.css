@@ -1,0 +1,87 @@
+.caja1{
+    position: static;
+    height: 70px;
+    width: 68px;
+    background-color: rgb(219, 12, 209);
+    display: inline-block;
+}
+
+.caja2{
+    position: static;
+    height: 70px;
+    width: 70px;
+    background-color: rgb(136, 118, 236);
+    display: inline-block;
+}
+
+.cajita1{
+height: 200px;
+width: 49%;
+background-color: rgb(230, 117, 211);
+display: inline-block;
+
+}
+
+.cajita2{
+    height: 200px;
+    width: 49%;
+    background-color: rgb(25, 183, 223);
+    display: inline-block;
+    
+    }
+
+ .cajita3{
+        height: 200px;
+        width: 10%;
+        background-color: white;
+        display: inline-block;
+          }
+.cajita4{
+height: 200px;
+width: 38.6%;
+background-color: rgb(221, 37, 123);
+display: inline-block;
+
+}
+
+.cajita5{
+    height: 200px;
+    width: 38.6%;
+    background-color: rgb(221, 37, 123);
+    display: inline-block;
+    
+    }
+
+ .cajita6{
+        height: 200px;
+        width: 10%;
+        background-color:white;
+        display: inline-block;
+        
+        }
+
+        .interior1
+        {
+            height: 40%;
+            width: 80px;
+            
+        }
+
+        .interior2
+        {
+            position: relative;
+            top: 40px;
+            background-color: violet;
+            height: 40%;
+            width: 80px;
+        }
+
+        .interior4
+        {
+            position: relative;
+            top: 40px;
+            left: 84.3%;
+            background-color: violet;
+            height: 40%;
+            width: 80px;
+        }
